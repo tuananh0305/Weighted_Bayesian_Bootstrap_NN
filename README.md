@@ -17,8 +17,8 @@ For each splitted train-test folds, we train an ensemble​ ​of 100 networks w
 
 # References
 
-[1](https://arxiv.org/abs/1803.04559) ​Newton, Michael, Nicholas G. Polson, and Jianeng Xu. "Weighted Bayesian Bootstrap for Scalable Bayes." ​arXiv preprint arXiv:1803.04559​ (2018).
+[[1]](https://arxiv.org/abs/1803.04559) ​Newton, Michael, Nicholas G. Polson, and Jianeng Xu. "Weighted Bayesian Bootstrap for Scalable Bayes." ​arXiv preprint arXiv:1803.04559​ (2018).
 
-[2](https://arxiv.org/abs/1502.05336) Hernández-Lobato, José Miguel, and Ryan Adams. "Probabilistic backpropagation for scalable learning of bayesian neural networks." ​International Conference on Machine Learning​. 2015.
+[[2]](https://arxiv.org/abs/1502.05336) Hernández-Lobato, José Miguel, and Ryan Adams. "Probabilistic backpropagation for scalable learning of bayesian neural networks." ​International Conference on Machine Learning​. 2015.
 
-[3](https://arxiv.org/abs/1506.02142) Gal, Yarin, and Zoubin Ghahramani. "Dropout as a bayesian approximation: Representing model uncertainty in deep learning." ​international conference on machine learning​. 2016.
+[[3]](https://arxiv.org/abs/1506.02142) Gal, Yarin, and Zoubin Ghahramani. "Dropout as a bayesian approximation: Representing model uncertainty in deep learning." ​international conference on machine learning​. 2016.
