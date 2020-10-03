@@ -13,8 +13,12 @@ We use the experimental setup proposed by Hernandez-Lobato and Adams [2] for eva
 In our experiment, we use the same network architecture: 1-hidden layer neural network containing 50 hidden units with a ReLU activation.
 For each splitted train-test folds, we train an ensemble​ ​of 100 networks with different random initializations. We train 300 epochs for each model. Our results are shown in table below, along with the results of PBP method [2] and Dropout method [3].
 
+![](https://github.com/tuananh0305/Weighted_Bayesian_Bootstrap_NN/blob/master/images/wbbrs.png)
+
 # References
 
 [1] ​Newton, Michael, Nicholas G. Polson, and Jianeng Xu. "Weighted Bayesian Bootstrap for Scalable Bayes." ​arXiv preprint arXiv:1803.04559​ (2018).
+
 [2] Hernández-Lobato, José Miguel, and Ryan Adams. "Probabilistic backpropagation for scalable learning of bayesian neural networks." ​International Conference on Machine Learning​. 2015.
+
 [3] Gal, Yarin, and Zoubin Ghahramani. "Dropout as a bayesian approximation: Representing model uncertainty in deep learning." ​international conference on machine learning​. 2016.
